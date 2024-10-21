@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^6.1.4",
+    "react-datepicker": "^7.4.0",
+    "react-router-dom": "^6.27.0"
+  }
+}
